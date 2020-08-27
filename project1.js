@@ -1,6 +1,6 @@
 gsap.registerPlugin(ScrollTrigger);
 
-console.log("fuck me baby")
+
 var navTab = document.getElementById("nav-tab");
 var navLinkItem = document.getElementById("nav-link-item");
 var navTabOpen = true;
